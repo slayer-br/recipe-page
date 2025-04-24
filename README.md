@@ -6,8 +6,8 @@ Esta é a solução para o desafio **Recipe Page** no <a href="https://www.front
 ## 🗂 Tabela de conteúdos
 
 - [Visão Geral](#-visão-geral)
-  -[O que aprendi](#-o-que-eu-aprendi)
   - [Captura de Tela](#-captura-de-tela)
+  - [O que aprendi](#-o-que-eu-aprendi)
   - [Links](#-links)
 - [Meu Processo](#-meu-processo)
   - [Descrição](#-descrição)
@@ -31,7 +31,7 @@ Esta é a solução para o desafio **Recipe Page** no <a href="https://www.front
 
 ## 🔗 Links
 
-- URL da solução: <a href="https://github.com/slayer-br/recipe-page" target="_blank" rel="noopener noreferrer">Social Link Profile</a>
+- URL da solução: <a href="https://github.com/slayer-br/recipe-page" target="_blank" rel="noopener noreferrer">Recipe Page</a>
 - Site ao vivo: <a href="https://slayer-br.github.io/recipe-page" target="_blank" rel="noopener noreferrer">https://slayer-br.github.io/recipe-page</a>
 
 ## 🚀 Meu processo
