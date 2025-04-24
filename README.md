@@ -27,7 +27,7 @@ Esta é a solução para o desafio **Recipe Page** no <a href="https://www.front
 - Seguir fielmente um design e aplicar regras de tipografia
 
 ### 📷 Captura de tela
-![Preview do Projeto](./assets/images/preview.png)
+![Preview do Projeto](./assets/images/preview.jpg)
 
 ## 🔗 Links
 
